@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.341548ee5f2679bae78de71a469f30d3.js"
+  "/precache-manifest.b0c641c3843cdf33e47fdab24cbeceb9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "chemicaltools-web"});

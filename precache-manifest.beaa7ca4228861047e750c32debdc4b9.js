@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/js/setting.e2911e8a.js"
   },
   {
-    "revision": "d4c1473434fbfedc364548f449b1f3e9",
+    "revision": "15c3abc44aab0a6fadd0e25af2de888d",
     "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/manifest.json"
   },
   {

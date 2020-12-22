@@ -12,40 +12,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/chemicaltools_white.svg"
   },
   {
-    "revision": "736cc46e4f26bbe58b93526ee269a557",
+    "revision": "998e5c3d767c6617626c6ba7f5b55277",
     "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/index.html"
   },
   {
-    "revision": "1a25b75720ef7ffb8ebd",
-    "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/js/acid.f4ac28bc.js"
+    "revision": "7446c555f39c572354e7",
+    "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/js/acid.45632fee.js"
   },
   {
-    "revision": "16939e907b12f6451809",
-    "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/js/app.f787bb95.js"
+    "revision": "e20db27a6970dce8e115",
+    "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/js/app.cb76adb5.js"
   },
   {
-    "revision": "889f1dfc6ecd2259426f",
-    "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/js/deviation.ea3cf3a5.js"
+    "revision": "6a287311f74c09aaaaae",
+    "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/js/deviation.cf95ef5b.js"
   },
   {
-    "revision": "872ffefc9ec9b158572a",
-    "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/js/element.00996dee.js"
+    "revision": "6b4545513f24bc7edbe9",
+    "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/js/element.09dc616c.js"
   },
   {
-    "revision": "e66d86bb2753f15c4576",
-    "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/js/exam.99cc1b47.js"
+    "revision": "c89e544e136059d87a45",
+    "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/js/exam.daa76150.js"
   },
   {
-    "revision": "e255a77f6476c0d4508d",
-    "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/js/gas.93653d25.js"
+    "revision": "5d8bbbe9f920786d0ba1",
+    "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/js/gas.56c3e635.js"
   },
   {
-    "revision": "069cc4ce95a75c95354b",
-    "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/js/mass.5c04a66d.js"
+    "revision": "6df95dfacd764c4db77f",
+    "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/js/mass.fd5fbebd.js"
   },
   {
-    "revision": "74a75c5bedcf32dfcbed",
-    "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/js/setting.d554eed3.js"
+    "revision": "dbc60b7710b18e4e7bdb",
+    "url": "//cdn.jsdelivr.net/gh/njzjz/chemicaltools-web@gh-pages/js/setting.ceb3c4a0.js"
   },
   {
     "revision": "51523fafdea3b478643894d4f6c95333",

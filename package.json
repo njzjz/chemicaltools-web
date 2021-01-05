@@ -137,5 +137,9 @@
   ],
   "engines": {
     "node": ">=10.15.0"
+  },
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/<YOUR-COLLECTIVE-SLUG>"
   }
 }
